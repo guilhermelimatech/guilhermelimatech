@@ -44,4 +44,4 @@ Today, I'm applying that foundation toward becoming a software engineer.
 
 ## 🌎 Connect
 
-[LinkedIn](COLOQUE-SEU-LINKEDIN-AQUI)
+[LinkedIn](https://www.linkedin.com/in/guilherme-lima-tech/)
