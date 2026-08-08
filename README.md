@@ -1,98 +1,47 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guilhermelimatech/Branding/refs/heads/main/Guilherme%20Lima%20(21).png" alt="Guilherme Lima Tech Banner" width="100%"/>
-</p>
+# Guilherme Lima
 
+**Software Engineering • Backend • Systems**
 
----
+Building my foundations in software engineering through hands-on projects, with a focus on writing clean code, understanding how systems work, and continuously improving my engineering skills.
 
-<!-- Banner -->
-<h1 align="center">👋 Olá, eu sou o <strong>Guilherme Lima</strong></h1>
-<h3 align="center">🚀 Fundador da <strong>Guilherme Lima Tech</strong> | Transforming Data into Trusted Decisions</h3>
+Currently studying programming fundamentals, algorithms, data structures, databases, backend development, and software architecture.
 
 ---
 
-## 🧠 Sobre Mim
+## 🧭 Engineering Journey
 
-Sou formado em **Administração pela ETEC**, com experiência prática no **Mercado Livre**, atuando em **Logística, Qualidade e Customer Experience**.  
-Atualmente em **transição estratégica para a área de Dados e Cloud**, desenvolvendo habilidades em **Excel, Power BI, SQL, Python e Google Cloud**.
+I'm building my software engineering skills through practice.
 
-Meu propósito é **transformar dados em decisões confiáveis**, unindo gestão, tecnologia e propósito — com excelência técnica e integridade pessoal.  
+Each repository represents something I studied, implemented, tested, or improved — from programming fundamentals to increasingly complex software systems.
 
----
+My long-term interests include:
 
-## ⚙️ Stack & Ferramentas  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</p>
+* Backend Engineering
+* Software Architecture
+* Distributed Systems
+* Cloud Computing
+* Data-Intensive Applications
 
 ---
 
-## 📈 Roadmap de Evolução  
+## 💻 Projects
 
-✅ **Fase 1 – Fundamentos:** Excel, Power BI e SQL  
-🔄 **Fase 2 – Automação:** Python, ETL e Power Query  
-📊 **Fase 3 – BI Avançado:** Storytelling com Dados  
-☁️ **Fase 4 – Cloud:** Google Cloud, BigQuery e Dataflow  
-🏗️ **Fase 5 – Arquitetura:** Cloud Data Architect  
+Projects will be added here as they are built.
 
-> 💡 *Cada repositório aqui reflete uma parte dessa jornada.*
+> **Learn → Build → Document → Improve.**
 
 ---
 
-## 📂 Projetos em Destaque  
+## 🧩 Background
 
-| 🔹 Projeto | 💬 Descrição | ⚙️ Tecnologias |
-|------------|--------------|----------------|
-| **Dashboard de Vendas** | Painel interativo com KPIs de performance comercial. | Excel, Power BI |
-| **Análise SQL – E-commerce** | Consultas e métricas de comportamento de clientes. | SQL |
-| **Automação de Relatórios** | Script Python para relatórios automáticos. | Python, Excel |
-| **Estudos de Cloud** | Laboratório prático com Google Cloud e BigQuery. | Cloud, Python |
+Before focusing on software engineering, I developed professional experience in operations, logistics, quality, and customer experience at Mercado Livre.
 
----
+I also studied data analysis and cloud technologies, which gave me early exposure to SQL, Python, data processing, and cloud computing.
 
-## 🧩 Certificações & Formação  
-
-🎓 **ETEC – Escola Técnica Estadual de São Paulo**  
-Técnico em Administração (2021–2023)  
-
-🏅 **Certificações:**  
-- Lean Six Sigma White Belt – Mercado Livre  
-- Excel Avançado – Fundação Bradesco  
-- Power BI para Negócios – DIO  
-- Google Cloud Fundamentals – Coursera  
+Today, I'm applying that foundation toward becoming a software engineer.
 
 ---
 
-## 🌍 Onde me encontrar  
+## 🌎 Connect
 
-<p align="center">
-  <a href="mailto:contato@guilhermelimatech.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/guilherme-lima-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.guilhermelimatech.com" target="_blank"><img src="https://img.shields.io/badge/Site-1E1E1E?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/guilhermelimatech" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-## ✝️ Missão e Valores  
-
-A **Guilherme Lima Tech** nasceu com propósito, fé e visão de futuro.  
-Busco excelência técnica, mas também **equilíbrio espiritual, familiar e profissional**.  
-
-> 🕊️ “Trabalhar com dados é mais do que números — é aprender a ver com clareza o que os olhos não veem.”  
-
----
-
-## 🧾 Assinatura  
-
-<p align="center">
-  <strong>Guilherme Lima Tech</strong><br/>
-  <em>Transforming Data into Trusted Decisions</em><br/><br/>
-  <img src="https://img.shields.io/badge/Dados%20%26%20Cloud%20Solutions-0059b3?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
+[LinkedIn](COLOQUE-SEU-LINKEDIN-AQUI)
