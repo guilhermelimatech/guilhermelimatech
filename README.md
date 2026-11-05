@@ -1,4 +1,4 @@
-<img src="Stand_wallpaper.jpg" alt="Header Wallpaper" width="100%">
+
 
 # Guilherme Lima
 
